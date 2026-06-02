@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movies Intelligence Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="dashboard-container">
+        <header class="header">
+            <div class="header-content">
+                <h1>🎬 Movies Intelligence</h1>
+                <p>Exploring trends, ratings, and financials from thousands of movies.</p>
+            </div>
+        </header>
+
+        <section class="card filter-panel">
+            <h2>🔍 Filter Movies</h2>
+            <div class="filter-controls">
+                <div class="filter-group">
+                    <label for="genreFilter">Genre</label>
+                    <select id="genreFilter">
+                        <option value="all">All Genres</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="yearStart">Start Year</label>
+                    <select id="yearStart">
+                        <option value="1920">1920</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="yearEnd">End Year</label>
+                    <select id="yearEnd">
+                        <option value="2020">2020</option>
+                    </select>
+                </div>
+                <div class="filter-group slider-group">
+                    <label for="ratingFilter">Min Rating: <span id="ratingVal">0.0</span> ⭐</label>
+                    <input type="range" id="ratingFilter" min="0" max="10" step="0.5" value="0">
+                </div>
+                <div class="filter-group button-group">
+                    <button id="resetFilters" class="btn">Reset Filters</button>
+                </div>
+            </div>
+        </section>
+
+        <main class="grid-layout">
+            <!-- Key Insights Panel -->
+            <section class="card span-full insights-panel">
+                <h2>✨ Key Insights</h2>
+                <div class="insights-grid" id="insights-grid">
+                    <div class="insight-item">
+                        <span class="insight-label">Golden Era of Releases</span>
+                        <p>The number of movies released has grown exponentially since the late 90s, peaking around <strong>2014-2015</strong> with nearly 2,000 top-tier releases annually.</p>
+                    </div>
+                    <div class="insight-item">
+                        <span class="insight-label">Dominant Genres</span>
+                        <p><strong>Drama</strong> and <strong>Comedy</strong> dominate the landscape, accounting for massive portions of Hollywood's total output, but Action and Thrillers follow closely.</p>
+                    </div>
+                    <div class="insight-item">
+                        <span class="insight-label">The Cost of Blockbusters</span>
+                        <p>High budgets correlate strongly with high revenues, but massive outliers like <strong>Avatar</strong> and <strong>Star Wars</strong> redefine scale, achieving billion-dollar profits.</p>
+                    </div>
+                    <div class="insight-item">
+                        <span class="insight-label">Audience Sentiment</span>
+                        <p>Most movies cluster around a solid <strong>6.0 to 7.0</strong> rating from the audience. Masterpieces scraping above 8.0 are exceedingly rare but celebrated.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Chart 1: Top Rated -->
+            <section class="card chart-card">
+                <h2>Top 10 Highest Rated Movies</h2>
+                <p class="subtitle">Movies with more than 1,000 votes</p>
+                <div class="chart-wrapper">
+                    <canvas id="topRatedChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Chart 2: Common Genres -->
+            <section class="card chart-card">
+                <h2>Most Common Movie Genres</h2>
+                <p class="subtitle">By absolute number of movies</p>
+                <div class="chart-wrapper">
+                    <canvas id="genresChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Chart 3: Release Trend -->
+            <section class="card chart-card span-full">
+                <h2>Movie Releases Per Year</h2>
+                <p class="subtitle">Trend over the last 30 years</p>
+                <div class="chart-wrapper-large">
+                    <canvas id="releaseTrendChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Chart 4: Rating Distribution -->
+            <section class="card chart-card">
+                <h2>Distribution of Movie Ratings</h2>
+                <p class="subtitle">Aggregated audience scores</p>
+                <div class="chart-wrapper">
+                    <canvas id="ratingDistChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Chart 5: Budget vs Revenue -->
+            <section class="card chart-card">
+                <h2>Budget vs. Revenue</h2>
+                <p class="subtitle">Top earning movies comparison ($ USD)</p>
+                <div class="chart-wrapper">
+                    <canvas id="scatterChart"></canvas>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

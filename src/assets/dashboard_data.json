@@ -1,0 +1,2778 @@
+{
+  "top_movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "rating": 8.5,
+      "votes": 8358
+    },
+    {
+      "title": "The Godfather",
+      "rating": 8.5,
+      "votes": 6024
+    },
+    {
+      "title": "Your Name.",
+      "rating": 8.5,
+      "votes": 1030
+    },
+    {
+      "title": "The Dark Knight",
+      "rating": 8.3,
+      "votes": 12269
+    },
+    {
+      "title": "Fight Club",
+      "rating": 8.3,
+      "votes": 9678
+    },
+    {
+      "title": "Pulp Fiction",
+      "rating": 8.3,
+      "votes": 8670
+    },
+    {
+      "title": "Schindler's List",
+      "rating": 8.3,
+      "votes": 4436
+    },
+    {
+      "title": "Whiplash",
+      "rating": 8.3,
+      "votes": 4376
+    },
+    {
+      "title": "Spirited Away",
+      "rating": 8.3,
+      "votes": 3968
+    },
+    {
+      "title": "Life Is Beautiful",
+      "rating": 8.3,
+      "votes": 3643
+    }
+  ],
+  "common_genres": [
+    {
+      "genre": "Drama",
+      "count": 20264
+    },
+    {
+      "genre": "Comedy",
+      "count": 13182
+    },
+    {
+      "genre": "Thriller",
+      "count": 7623
+    },
+    {
+      "genre": "Romance",
+      "count": 6735
+    },
+    {
+      "genre": "Action",
+      "count": 6594
+    },
+    {
+      "genre": "Horror",
+      "count": 4672
+    },
+    {
+      "genre": "Crime",
+      "count": 4307
+    },
+    {
+      "genre": "Documentary",
+      "count": 3932
+    },
+    {
+      "genre": "Adventure",
+      "count": 3496
+    },
+    {
+      "genre": "Science Fiction",
+      "count": 3047
+    }
+  ],
+  "release_trend": [
+    {
+      "year": "1988",
+      "movies": 467
+    },
+    {
+      "year": "1989",
+      "movies": 439
+    },
+    {
+      "year": "1990",
+      "movies": 427
+    },
+    {
+      "year": "1991",
+      "movies": 426
+    },
+    {
+      "year": "1992",
+      "movies": 453
+    },
+    {
+      "year": "1993",
+      "movies": 489
+    },
+    {
+      "year": "1994",
+      "movies": 544
+    },
+    {
+      "year": "1995",
+      "movies": 599
+    },
+    {
+      "year": "1996",
+      "movies": 633
+    },
+    {
+      "year": "1997",
+      "movies": 661
+    },
+    {
+      "year": "1998",
+      "movies": 722
+    },
+    {
+      "year": "1999",
+      "movies": 723
+    },
+    {
+      "year": "2000",
+      "movies": 789
+    },
+    {
+      "year": "2001",
+      "movies": 865
+    },
+    {
+      "year": "2002",
+      "movies": 905
+    },
+    {
+      "year": "2003",
+      "movies": 882
+    },
+    {
+      "year": "2004",
+      "movies": 992
+    },
+    {
+      "year": "2005",
+      "movies": 1125
+    },
+    {
+      "year": "2006",
+      "movies": 1270
+    },
+    {
+      "year": "2007",
+      "movies": 1320
+    },
+    {
+      "year": "2008",
+      "movies": 1473
+    },
+    {
+      "year": "2009",
+      "movies": 1586
+    },
+    {
+      "year": "2010",
+      "movies": 1501
+    },
+    {
+      "year": "2011",
+      "movies": 1667
+    },
+    {
+      "year": "2012",
+      "movies": 1722
+    },
+    {
+      "year": "2013",
+      "movies": 1889
+    },
+    {
+      "year": "2014",
+      "movies": 1974
+    },
+    {
+      "year": "2015",
+      "movies": 1905
+    },
+    {
+      "year": "2016",
+      "movies": 1604
+    },
+    {
+      "year": "2017",
+      "movies": 532
+    }
+  ],
+  "rating_distribution": [
+    {
+      "rating": "2.0",
+      "count": 2
+    },
+    {
+      "rating": "3.0",
+      "count": 15
+    },
+    {
+      "rating": "3.5",
+      "count": 24
+    },
+    {
+      "rating": "4.0",
+      "count": 82
+    },
+    {
+      "rating": "4.5",
+      "count": 230
+    },
+    {
+      "rating": "5.0",
+      "count": 596
+    },
+    {
+      "rating": "5.5",
+      "count": 1206
+    },
+    {
+      "rating": "6.0",
+      "count": 1806
+    },
+    {
+      "rating": "6.5",
+      "count": 1935
+    },
+    {
+      "rating": "7.0",
+      "count": 1628
+    },
+    {
+      "rating": "7.5",
+      "count": 1121
+    },
+    {
+      "rating": "8.0",
+      "count": 373
+    },
+    {
+      "rating": "8.5",
+      "count": 27
+    },
+    {
+      "rating": "9.0",
+      "count": 2
+    }
+  ],
+  "budget_vs_revenue": [
+    {
+      "title": "Avatar",
+      "budget": 237000000.0,
+      "revenue": 2787965087.0
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "budget": 245000000.0,
+      "revenue": 2068223624.0
+    },
+    {
+      "title": "Titanic",
+      "budget": 200000000.0,
+      "revenue": 1845034188.0
+    },
+    {
+      "title": "The Avengers",
+      "budget": 220000000.0,
+      "revenue": 1519557910.0
+    },
+    {
+      "title": "Jurassic World",
+      "budget": 150000000.0,
+      "revenue": 1513528810.0
+    },
+    {
+      "title": "Furious 7",
+      "budget": 190000000.0,
+      "revenue": 1506249360.0
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "budget": 280000000.0,
+      "revenue": 1405403694.0
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "budget": 125000000.0,
+      "revenue": 1342000000.0
+    },
+    {
+      "title": "Frozen",
+      "budget": 150000000.0,
+      "revenue": 1274219009.0
+    },
+    {
+      "title": "Beauty and the Beast",
+      "budget": 160000000.0,
+      "revenue": 1262886337.0
+    },
+    {
+      "title": "The Fate of the Furious",
+      "budget": 250000000.0,
+      "revenue": 1238764765.0
+    },
+    {
+      "title": "Iron Man 3",
+      "budget": 200000000.0,
+      "revenue": 1215439994.0
+    },
+    {
+      "title": "Minions",
+      "budget": 74000000.0,
+      "revenue": 1156730962.0
+    },
+    {
+      "title": "Captain America: Civil War",
+      "budget": 250000000.0,
+      "revenue": 1153304495.0
+    },
+    {
+      "title": "Transformers: Dark of the Moon",
+      "budget": 195000000.0,
+      "revenue": 1123746996.0
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "budget": 94000000.0,
+      "revenue": 1118888979.0
+    },
+    {
+      "title": "Skyfall",
+      "budget": 200000000.0,
+      "revenue": 1108561013.0
+    },
+    {
+      "title": "Transformers: Age of Extinction",
+      "budget": 210000000.0,
+      "revenue": 1091405097.0
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "budget": 250000000.0,
+      "revenue": 1084939099.0
+    },
+    {
+      "title": "Toy Story 3",
+      "budget": 200000000.0,
+      "revenue": 1066969703.0
+    },
+    {
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "budget": 200000000.0,
+      "revenue": 1065659812.0
+    },
+    {
+      "title": "Rogue One: A Star Wars Story",
+      "budget": 200000000.0,
+      "revenue": 1056057273.0
+    },
+    {
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "budget": 380000000.0,
+      "revenue": 1045713802.0
+    },
+    {
+      "title": "Finding Dory",
+      "budget": 200000000.0,
+      "revenue": 1028570889.0
+    },
+    {
+      "title": "Alice in Wonderland",
+      "budget": 200000000.0,
+      "revenue": 1025491110.0
+    },
+    {
+      "title": "Zootopia",
+      "budget": 150000000.0,
+      "revenue": 1023784195.0
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey",
+      "budget": 250000000.0,
+      "revenue": 1021103568.0
+    },
+    {
+      "title": "Despicable Me 3",
+      "budget": 80000000.0,
+      "revenue": 1020063384.0
+    },
+    {
+      "title": "The Dark Knight",
+      "budget": 185000000.0,
+      "revenue": 1004558444.0
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "budget": 125000000.0,
+      "revenue": 976475550.0
+    },
+    {
+      "title": "Despicable Me 2",
+      "budget": 76000000.0,
+      "revenue": 970761885.0
+    },
+    {
+      "title": "The Jungle Book",
+      "budget": 175000000.0,
+      "revenue": 966550600.0
+    },
+    {
+      "title": "Pirates of the Caribbean: At World's End",
+      "budget": 300000000.0,
+      "revenue": 961000000.0
+    },
+    {
+      "title": "The Hobbit: The Desolation of Smaug",
+      "budget": 250000000.0,
+      "revenue": 958400000.0
+    },
+    {
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "budget": 250000000.0,
+      "revenue": 956019788.0
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "budget": 250000000.0,
+      "revenue": 954305868.0
+    },
+    {
+      "title": "Finding Nemo",
+      "budget": 94000000.0,
+      "revenue": 940335536.0
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "budget": 150000000.0,
+      "revenue": 938212738.0
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "budget": 250000000.0,
+      "revenue": 933959197.0
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "budget": 79000000.0,
+      "revenue": 926287400.0
+    },
+    {
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "budget": 115000000.0,
+      "revenue": 924317558.0
+    },
+    {
+      "title": "Jurassic Park",
+      "budget": 63000000.0,
+      "revenue": 920100000.0
+    },
+    {
+      "title": "Shrek 2",
+      "budget": 150000000.0,
+      "revenue": 919838758.0
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "budget": 150000000.0,
+      "revenue": 895921036.0
+    },
+    {
+      "title": "Spider-Man 3",
+      "budget": 258000000.0,
+      "revenue": 890871626.0
+    },
+    {
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "budget": 90000000.0,
+      "revenue": 886686817.0
+    },
+    {
+      "title": "Spectre",
+      "budget": 245000000.0,
+      "revenue": 880674609.0
+    },
+    {
+      "title": "Ice Age: Continental Drift",
+      "budget": 95000000.0,
+      "revenue": 877244782.0
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "budget": 100000000.0,
+      "revenue": 876688482.0
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "budget": 75000000.0,
+      "revenue": 875457937.0
+    },
+    {
+      "title": "Batman v Superman: Dawn of Justice",
+      "budget": 250000000.0,
+      "revenue": 873260194.0
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "budget": 93000000.0,
+      "revenue": 871368364.0
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "budget": 200000000.0,
+      "revenue": 863416141.0
+    },
+    {
+      "title": "Inside Out",
+      "budget": 175000000.0,
+      "revenue": 857611174.0
+    },
+    {
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "budget": 113000000.0,
+      "revenue": 850000000.0
+    },
+    {
+      "title": "The Hunger Games: Catching Fire",
+      "budget": 130000000.0,
+      "revenue": 847423452.0
+    },
+    {
+      "title": "Transformers: Revenge of the Fallen",
+      "budget": 150000000.0,
+      "revenue": 836297228.0
+    },
+    {
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "budget": 120000000.0,
+      "revenue": 829000000.0
+    },
+    {
+      "title": "Inception",
+      "budget": 160000000.0,
+      "revenue": 825532764.0
+    },
+    {
+      "title": "Spider-Man",
+      "budget": 139000000.0,
+      "revenue": 821708551.0
+    },
+    {
+      "title": "Wonder Woman",
+      "budget": 149000000.0,
+      "revenue": 820580447.0
+    },
+    {
+      "title": "Independence Day",
+      "budget": 75000000.0,
+      "revenue": 816969268.0
+    },
+    {
+      "title": "Fantastic Beasts and Where to Find Them",
+      "budget": 180000000.0,
+      "revenue": 809342332.0
+    },
+    {
+      "title": "Shrek the Third",
+      "budget": 160000000.0,
+      "revenue": 798958165.0
+    },
+    {
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "budget": 230000000.0,
+      "revenue": 794191988.0
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "budget": 10500000.0,
+      "revenue": 792965326.0
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "budget": 130000000.0,
+      "revenue": 789804554.0
+    },
+    {
+      "title": "Fast & Furious 6",
+      "budget": 160000000.0,
+      "revenue": 788679850.0
+    },
+    {
+      "title": "The Lion King",
+      "budget": 45000000.0,
+      "revenue": 788241776.0
+    },
+    {
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "budget": 185000000.0,
+      "revenue": 786636033.0
+    },
+    {
+      "title": "Spider-Man 2",
+      "budget": 200000000.0,
+      "revenue": 783766341.0
+    },
+    {
+      "title": "Deadpool",
+      "budget": 58000000.0,
+      "revenue": 783112979.0
+    },
+    {
+      "title": "Star Wars",
+      "budget": 11000000.0,
+      "revenue": 775398007.0
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "budget": 170000000.0,
+      "revenue": 773328629.0
+    },
+    {
+      "title": "2012",
+      "budget": 200000000.0,
+      "revenue": 769653595.0
+    },
+    {
+      "title": "The Da Vinci Code",
+      "budget": 125000000.0,
+      "revenue": 767820459.0
+    },
+    {
+      "title": "Maleficent",
+      "budget": 180000000.0,
+      "revenue": 758539785.0
+    },
+    {
+      "title": "Shrek Forever After",
+      "budget": 165000000.0,
+      "revenue": 752600867.0
+    },
+    {
+      "title": "The Amazing Spider-Man",
+      "budget": 215000000.0,
+      "revenue": 752215857.0
+    },
+    {
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "budget": 125000000.0,
+      "revenue": 752100229.0
+    },
+    {
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "budget": 180000000.0,
+      "revenue": 748806957.0
+    },
+    {
+      "title": "X-Men: Days of Future Past",
+      "budget": 250000000.0,
+      "revenue": 747862775.0
+    },
+    {
+      "title": "Madagascar 3: Europe's Most Wanted",
+      "budget": 145000000.0,
+      "revenue": 746921274.0
+    },
+    {
+      "title": "Suicide Squad",
+      "budget": 175000000.0,
+      "revenue": 745600054.0
+    },
+    {
+      "title": "Monsters University",
+      "budget": 200000000.0,
+      "revenue": 743559607.0
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "budget": 150000000.0,
+      "revenue": 738599701.0
+    },
+    {
+      "title": "Up",
+      "budget": 175000000.0,
+      "revenue": 735099082.0
+    },
+    {
+      "title": "Gravity",
+      "budget": 105000000.0,
+      "revenue": 716392705.0
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "budget": 170000000.0,
+      "revenue": 714766572.0
+    },
+    {
+      "title": "The Twilight Saga: Breaking Dawn - Part 1",
+      "budget": 110000000.0,
+      "revenue": 712171856.0
+    },
+    {
+      "title": "Dawn of the Planet of the Apes",
+      "budget": 170000000.0,
+      "revenue": 710644566.0
+    },
+    {
+      "title": "The Twilight Saga: New Moon",
+      "budget": 50000000.0,
+      "revenue": 709827462.0
+    },
+    {
+      "title": "Transformers",
+      "budget": 150000000.0,
+      "revenue": 709709780.0
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "budget": 200000000.0,
+      "revenue": 705717432.0
+    },
+    {
+      "title": "The Twilight Saga: Eclipse",
+      "budget": 68000000.0,
+      "revenue": 698491347.0
+    },
+    {
+      "title": "Mission: Impossible - Ghost Protocol",
+      "budget": 145000000.0,
+      "revenue": 694713380.0
+    },
+    {
+      "title": "The Hunger Games",
+      "budget": 75000000.0,
+      "revenue": 691210692.0
+    },
+    {
+      "title": "Mission: Impossible - Rogue Nation",
+      "budget": 150000000.0,
+      "revenue": 682330139.0
+    },
+    {
+      "title": "Forrest Gump",
+      "budget": 55000000.0,
+      "revenue": 677945399.0
+    },
+    {
+      "title": "Doctor Strange",
+      "budget": 165000000.0,
+      "revenue": 677718395.0
+    },
+    {
+      "title": "Interstellar",
+      "budget": 165000000.0,
+      "revenue": 675120017.0
+    },
+    {
+      "title": "The Sixth Sense",
+      "budget": 40000000.0,
+      "revenue": 672806292.0
+    },
+    {
+      "title": "Kung Fu Panda 2",
+      "budget": 150000000.0,
+      "revenue": 665692281.0
+    },
+    {
+      "title": "Man of Steel",
+      "budget": 225000000.0,
+      "revenue": 662845518.0
+    },
+    {
+      "title": "Ice Age: The Meltdown",
+      "budget": 80000000.0,
+      "revenue": 660940780.0
+    },
+    {
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "budget": 140000000.0,
+      "revenue": 655011224.0
+    },
+    {
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "budget": 160000000.0,
+      "revenue": 653428261.0
+    },
+    {
+      "title": "Big Hero 6",
+      "budget": 165000000.0,
+      "revenue": 652105443.0
+    },
+    {
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "budget": 120000000.0,
+      "revenue": 649398328.0
+    },
+    {
+      "title": "Thor: The Dark World",
+      "budget": 170000000.0,
+      "revenue": 644571402.0
+    },
+    {
+      "title": "Moana",
+      "budget": 150000000.0,
+      "revenue": 643034466.0
+    },
+    {
+      "title": "Sing",
+      "budget": 75000000.0,
+      "revenue": 632443719.0
+    },
+    {
+      "title": "Kung Fu Panda",
+      "budget": 130000000.0,
+      "revenue": 631744560.0
+    },
+    {
+      "title": "The Incredibles",
+      "budget": 92000000.0,
+      "revenue": 631442092.0
+    },
+    {
+      "title": "The Martian",
+      "budget": 108000000.0,
+      "revenue": 630161890.0
+    },
+    {
+      "title": "Fast Five",
+      "budget": 125000000.0,
+      "revenue": 626137675.0
+    },
+    {
+      "title": "Hancock",
+      "budget": 150000000.0,
+      "revenue": 624029371.0
+    },
+    {
+      "title": "Men in Black 3",
+      "budget": 225000000.0,
+      "revenue": 624026776.0
+    },
+    {
+      "title": "Iron Man 2",
+      "budget": 200000000.0,
+      "revenue": 623933331.0
+    },
+    {
+      "title": "Ratatouille",
+      "budget": 150000000.0,
+      "revenue": 623722818.0
+    },
+    {
+      "title": "Logan",
+      "budget": 97000000.0,
+      "revenue": 616801808.0
+    },
+    {
+      "title": "The Passion of the Christ",
+      "budget": 30000000.0,
+      "revenue": 611899420.0
+    },
+    {
+      "title": "Mamma Mia!",
+      "budget": 52000000.0,
+      "revenue": 609841637.0
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "budget": 145000000.0,
+      "revenue": 609123048.0
+    },
+    {
+      "title": "Life of Pi",
+      "budget": 120000000.0,
+      "revenue": 609016565.0
+    },
+    {
+      "title": "Transformers: The Last Knight",
+      "budget": 260000000.0,
+      "revenue": 604942143.0
+    },
+    {
+      "title": "Madagascar: Escape 2 Africa",
+      "budget": 150000000.0,
+      "revenue": 603900354.0
+    },
+    {
+      "title": "Casino Royale",
+      "budget": 150000000.0,
+      "revenue": 599045960.0
+    },
+    {
+      "title": "Tangled",
+      "budget": 260000000.0,
+      "revenue": 591794936.0
+    },
+    {
+      "title": "War of the Worlds",
+      "budget": 132000000.0,
+      "revenue": 591739379.0
+    },
+    {
+      "title": "Men in Black",
+      "budget": 90000000.0,
+      "revenue": 589390539.0
+    },
+    {
+      "title": "Quantum of Solace",
+      "budget": 200000000.0,
+      "revenue": 586090727.0
+    },
+    {
+      "title": "I Am Legend",
+      "budget": 150000000.0,
+      "revenue": 585349010.0
+    },
+    {
+      "title": "The Croods",
+      "budget": 135000000.0,
+      "revenue": 585178928.0
+    },
+    {
+      "title": "Iron Man",
+      "budget": 140000000.0,
+      "revenue": 585174222.0
+    },
+    {
+      "title": "Night at the Museum",
+      "budget": 110000000.0,
+      "revenue": 574480841.0
+    },
+    {
+      "title": "Return of the Jedi",
+      "budget": 32350000.0,
+      "revenue": 572700000.0
+    },
+    {
+      "title": "Alice in Wonderland",
+      "budget": 3000000.0,
+      "revenue": 572000000.0
+    },
+    {
+      "title": "Fifty Shades of Grey",
+      "budget": 40000000.0,
+      "revenue": 571006128.0
+    },
+    {
+      "title": "Kong: Skull Island",
+      "budget": 185000000.0,
+      "revenue": 566652812.0
+    },
+    {
+      "title": "The Smurfs",
+      "budget": 110000000.0,
+      "revenue": 563749323.0
+    },
+    {
+      "title": "Monsters, Inc.",
+      "budget": 115000000.0,
+      "revenue": 562816256.0
+    },
+    {
+      "title": "Cars 2",
+      "budget": 200000000.0,
+      "revenue": 559852396.0
+    },
+    {
+      "title": "The Mermaid",
+      "budget": 60720000.0,
+      "revenue": 553810228.0
+    },
+    {
+      "title": "Armageddon",
+      "budget": 140000000.0,
+      "revenue": 553799566.0
+    },
+    {
+      "title": "King Kong",
+      "budget": 207000000.0,
+      "revenue": 550000000.0
+    },
+    {
+      "title": "Ted",
+      "budget": 50000000.0,
+      "revenue": 549368315.0
+    },
+    {
+      "title": "Mission: Impossible II",
+      "budget": 125000000.0,
+      "revenue": 546388105.0
+    },
+    {
+      "title": "The Day After Tomorrow",
+      "budget": 125000000.0,
+      "revenue": 544272402.0
+    },
+    {
+      "title": "X-Men: Apocalypse",
+      "budget": 178000000.0,
+      "revenue": 543934787.0
+    },
+    {
+      "title": "Cinderella",
+      "budget": 95000000.0,
+      "revenue": 543514353.0
+    },
+    {
+      "title": "Despicable Me",
+      "budget": 69000000.0,
+      "revenue": 543513985.0
+    },
+    {
+      "title": "American Sniper",
+      "budget": 58800000.0,
+      "revenue": 542307423.0
+    },
+    {
+      "title": "Brave",
+      "budget": 185000000.0,
+      "revenue": 538983207.0
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "budget": 18000000.0,
+      "revenue": 538400000.0
+    },
+    {
+      "title": "The Revenant",
+      "budget": 135000000.0,
+      "revenue": 532950503.0
+    },
+    {
+      "title": "Madagascar",
+      "budget": 75000000.0,
+      "revenue": 532680671.0
+    },
+    {
+      "title": "World War Z",
+      "budget": 200000000.0,
+      "revenue": 531865000.0
+    },
+    {
+      "title": "Godzilla",
+      "budget": 160000000.0,
+      "revenue": 529076069.0
+    },
+    {
+      "title": "The Simpsons Movie",
+      "budget": 75000000.0,
+      "revenue": 527068851.0
+    },
+    {
+      "title": "Sherlock Holmes",
+      "budget": 90000000.0,
+      "revenue": 524028679.0
+    },
+    {
+      "title": "WALL\u00b7E",
+      "budget": 180000000.0,
+      "revenue": 521311860.0
+    },
+    {
+      "title": "Kung Fu Panda 3",
+      "budget": 145000000.0,
+      "revenue": 521170825.0
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "budget": 100000000.0,
+      "revenue": 520000000.0
+    },
+    {
+      "title": "Dunkirk",
+      "budget": 100000000.0,
+      "revenue": 519876949.0
+    },
+    {
+      "title": "Ant-Man",
+      "budget": 130000000.0,
+      "revenue": 519311965.0
+    },
+    {
+      "title": "Meet the Fockers",
+      "budget": 80000000.0,
+      "revenue": 516642939.0
+    },
+    {
+      "title": "Ghost",
+      "budget": 22000000.0,
+      "revenue": 505000000.0
+    },
+    {
+      "title": "Aladdin",
+      "budget": 28000000.0,
+      "revenue": 504050219.0
+    },
+    {
+      "title": "Rio 2",
+      "budget": 103000000.0,
+      "revenue": 500188435.0
+    },
+    {
+      "title": "The Boss Baby",
+      "budget": 125000000.0,
+      "revenue": 498814908.0
+    },
+    {
+      "title": "Troy",
+      "budget": 175000000.0,
+      "revenue": 497409852.0
+    },
+    {
+      "title": "Toy Story 2",
+      "budget": 90000000.0,
+      "revenue": 497366869.0
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "budget": 165000000.0,
+      "revenue": 494878759.0
+    },
+    {
+      "title": "Twister",
+      "budget": 92000000.0,
+      "revenue": 494471524.0
+    },
+    {
+      "title": "Oz: The Great and Powerful",
+      "budget": 200000000.0,
+      "revenue": 491868548.0
+    },
+    {
+      "title": "Rio",
+      "budget": 90000000.0,
+      "revenue": 484635760.0
+    },
+    {
+      "title": "Bruce Almighty",
+      "budget": 80000000.0,
+      "revenue": 484572835.0
+    },
+    {
+      "title": "Shrek",
+      "budget": 60000000.0,
+      "revenue": 484409218.0
+    },
+    {
+      "title": "Rise of the Planet of the Apes",
+      "budget": 93000000.0,
+      "revenue": 482860185.0
+    },
+    {
+      "title": "Saving Private Ryan",
+      "budget": 70000000.0,
+      "revenue": 481840909.0
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "budget": 110000000.0,
+      "revenue": 478207520.0
+    },
+    {
+      "title": "Teenage Mutant Ninja Turtles",
+      "budget": 125000000.0,
+      "revenue": 477200000.0
+    },
+    {
+      "title": "Home Alone",
+      "budget": 18000000.0,
+      "revenue": 476684675.0
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "budget": 150000000.0,
+      "revenue": 474968763.0
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "budget": 48000000.0,
+      "revenue": 474171806.0
+    },
+    {
+      "title": "Hotel Transylvania 2",
+      "budget": 80000000.0,
+      "revenue": 473226958.0
+    },
+    {
+      "title": "Wreck-It Ralph",
+      "budget": 165000000.0,
+      "revenue": 471222889.0
+    },
+    {
+      "title": "Jaws",
+      "budget": 7000000.0,
+      "revenue": 470654000.0
+    },
+    {
+      "title": "San Andreas",
+      "budget": 110000000.0,
+      "revenue": 470490832.0
+    },
+    {
+      "title": "The Lego Movie",
+      "budget": 60000000.0,
+      "revenue": 469160692.0
+    },
+    {
+      "title": "Star Trek Into Darkness",
+      "budget": 190000000.0,
+      "revenue": 467365246.0
+    },
+    {
+      "title": "The Matrix",
+      "budget": 63000000.0,
+      "revenue": 463517383.0
+    },
+    {
+      "title": "Pretty Woman",
+      "budget": 14000000.0,
+      "revenue": 463000000.0
+    },
+    {
+      "title": "Cars",
+      "budget": 120000000.0,
+      "revenue": 461983149.0
+    },
+    {
+      "title": "X-Men: The Last Stand",
+      "budget": 210000000.0,
+      "revenue": 459359555.0
+    },
+    {
+      "title": "The Hangover",
+      "budget": 35000000.0,
+      "revenue": 459270619.0
+    },
+    {
+      "title": "Mission: Impossible",
+      "budget": 80000000.0,
+      "revenue": 457696359.0
+    },
+    {
+      "title": "Gladiator",
+      "budget": 103000000.0,
+      "revenue": 457640427.0
+    },
+    {
+      "title": "National Treasure: Book of Secrets",
+      "budget": 130000000.0,
+      "revenue": 457363168.0
+    },
+    {
+      "title": "The Last Samurai",
+      "budget": 140000000.0,
+      "revenue": 456758981.0
+    },
+    {
+      "title": "Ocean's Eleven",
+      "budget": 85000000.0,
+      "revenue": 450717150.0
+    },
+    {
+      "title": "Thor",
+      "budget": 150000000.0,
+      "revenue": 449326618.0
+    },
+    {
+      "title": "Pearl Harbor",
+      "budget": 140000000.0,
+      "revenue": 449220945.0
+    },
+    {
+      "title": "Tarzan",
+      "budget": 150000000.0,
+      "revenue": 448000000.0
+    },
+    {
+      "title": "La La Land",
+      "budget": 30000000.0,
+      "revenue": 445435700.0
+    },
+    {
+      "title": "Alvin and the Chipmunks: The Squeakquel",
+      "budget": 75000000.0,
+      "revenue": 443140005.0
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "budget": 70000000.0,
+      "revenue": 442824138.0
+    },
+    {
+      "title": "Men in Black II",
+      "budget": 140000000.0,
+      "revenue": 441818803.0
+    },
+    {
+      "title": "Les Mis\u00e9rables",
+      "budget": 61000000.0,
+      "revenue": 441809770.0
+    },
+    {
+      "title": "The Exorcist",
+      "budget": 8000000.0,
+      "revenue": 441306145.0
+    },
+    {
+      "title": "Mrs. Doubtfire",
+      "budget": 25000000.0,
+      "revenue": 441286195.0
+    },
+    {
+      "title": "Terminator Genisys",
+      "budget": 155000000.0,
+      "revenue": 440603537.0
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "budget": 200000000.0,
+      "revenue": 435000000.0
+    },
+    {
+      "title": "Warcraft",
+      "budget": 160000000.0,
+      "revenue": 433677183.0
+    },
+    {
+      "title": "The Mummy Returns",
+      "budget": 98000000.0,
+      "revenue": 433013274.0
+    },
+    {
+      "title": "Die Another Day",
+      "budget": 140000000.0,
+      "revenue": 431971116.0
+    },
+    {
+      "title": "Cast Away",
+      "budget": 90000000.0,
+      "revenue": 429632142.0
+    },
+    {
+      "title": "The Intouchables",
+      "budget": 13000000.0,
+      "revenue": 426480871.0
+    },
+    {
+      "title": "Django Unchained",
+      "budget": 100000000.0,
+      "revenue": 425368238.0
+    },
+    {
+      "title": "The Matrix Revolutions",
+      "budget": 150000000.0,
+      "revenue": 424988211.0
+    },
+    {
+      "title": "Dances with Wolves",
+      "budget": 22000000.0,
+      "revenue": 424208848.0
+    },
+    {
+      "title": "300",
+      "budget": 65000000.0,
+      "revenue": 422610419.0
+    },
+    {
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "budget": 225000000.0,
+      "revenue": 419651413.0
+    },
+    {
+      "title": "The Mummy",
+      "budget": 80000000.0,
+      "revenue": 415885488.0
+    },
+    {
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "budget": 155000000.0,
+      "revenue": 415686217.0
+    },
+    {
+      "title": "Jason Bourne",
+      "budget": 120000000.0,
+      "revenue": 415484914.0
+    },
+    {
+      "title": "The Wolverine",
+      "budget": 120000000.0,
+      "revenue": 415440673.0
+    },
+    {
+      "title": "Sex and the City",
+      "budget": 65000000.0,
+      "revenue": 415252786.0
+    },
+    {
+      "title": "Kingsman: The Secret Service",
+      "budget": 81000000.0,
+      "revenue": 414351546.0
+    },
+    {
+      "title": "The King's Speech",
+      "budget": 15000000.0,
+      "revenue": 414211549.0
+    },
+    {
+      "title": "Night at the Museum: Battle of the Smithsonian",
+      "budget": 150000000.0,
+      "revenue": 413106170.0
+    },
+    {
+      "title": "Rain Man",
+      "budget": 25000000.0,
+      "revenue": 412800000.0
+    },
+    {
+      "title": "Batman",
+      "budget": 35000000.0,
+      "revenue": 411348924.0
+    },
+    {
+      "title": "The Bodyguard",
+      "budget": 25000000.0,
+      "revenue": 411006740.0
+    },
+    {
+      "title": "Ice Age: Collision Course",
+      "budget": 105000000.0,
+      "revenue": 408579038.0
+    },
+    {
+      "title": "Signs",
+      "budget": 72000000.0,
+      "revenue": 408247917.0
+    },
+    {
+      "title": "The Mummy",
+      "budget": 125000000.0,
+      "revenue": 407778013.0
+    },
+    {
+      "title": "X2",
+      "budget": 110000000.0,
+      "revenue": 407711549.0
+    },
+    {
+      "title": "Pacific Rim",
+      "budget": 180000000.0,
+      "revenue": 407602906.0
+    },
+    {
+      "title": "Prometheus",
+      "budget": 130000000.0,
+      "revenue": 403170142.0
+    },
+    {
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "budget": 145000000.0,
+      "revenue": 401128639.0
+    },
+    {
+      "title": "Gone with the Wind",
+      "budget": 4000000.0,
+      "revenue": 400176459.0
+    },
+    {
+      "title": "TRON: Legacy",
+      "budget": 170000000.0,
+      "revenue": 400062763.0
+    },
+    {
+      "title": "Mission: Impossible III",
+      "budget": 150000000.0,
+      "revenue": 397850012.0
+    },
+    {
+      "title": "Snow White and the Huntsman",
+      "budget": 170000000.0,
+      "revenue": 396600000.0
+    },
+    {
+      "title": "Twilight",
+      "budget": 37000000.0,
+      "revenue": 392616625.0
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "budget": 100000000.0,
+      "revenue": 392000694.0
+    },
+    {
+      "title": "Superman Returns",
+      "budget": 270000000.0,
+      "revenue": 391081192.0
+    },
+    {
+      "title": "Robin Hood: Prince of Thieves",
+      "budget": 48000000.0,
+      "revenue": 390493908.0
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "budget": 18000000.0,
+      "revenue": 389925971.0
+    },
+    {
+      "title": "Independence Day: Resurgence",
+      "budget": 165000000.0,
+      "revenue": 389681935.0
+    },
+    {
+      "title": "Star Trek",
+      "budget": 150000000.0,
+      "revenue": 385680446.0
+    },
+    {
+      "title": "Monster Hunt",
+      "budget": 40000000.0,
+      "revenue": 385284817.0
+    },
+    {
+      "title": "Happy Feet",
+      "budget": 100000000.0,
+      "revenue": 384335608.0
+    },
+    {
+      "title": "Live Free or Die Hard",
+      "budget": 110000000.0,
+      "revenue": 383531464.0
+    },
+    {
+      "title": "Ice Age",
+      "budget": 59000000.0,
+      "revenue": 383257136.0
+    },
+    {
+      "title": "Monsters vs Aliens",
+      "budget": 175000000.0,
+      "revenue": 381509870.0
+    },
+    {
+      "title": "Back to the Future",
+      "budget": 19000000.0,
+      "revenue": 381109762.0
+    },
+    {
+      "title": "Godzilla",
+      "budget": 130000000.0,
+      "revenue": 379014294.0
+    },
+    {
+      "title": "True Lies",
+      "budget": 115000000.0,
+      "revenue": 378882411.0
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "budget": 150000000.0,
+      "revenue": 378858340.0
+    },
+    {
+      "title": "Fifty Shades Darker",
+      "budget": 55000000.0,
+      "revenue": 378827494.0
+    },
+    {
+      "title": "Slumdog Millionaire",
+      "budget": 15000000.0,
+      "revenue": 377910544.0
+    },
+    {
+      "title": "Beauty and the Beast",
+      "budget": 25000000.0,
+      "revenue": 377350553.0
+    },
+    {
+      "title": "Taken 2",
+      "budget": 45000000.0,
+      "revenue": 376141306.0
+    },
+    {
+      "title": "Batman Begins",
+      "budget": 150000000.0,
+      "revenue": 374218673.0
+    },
+    {
+      "title": "What Women Want",
+      "budget": 70000000.0,
+      "revenue": 374111707.0
+    },
+    {
+      "title": "Toy Story",
+      "budget": 30000000.0,
+      "revenue": 373554033.0
+    },
+    {
+      "title": "Penguins of Madagascar",
+      "budget": 132000000.0,
+      "revenue": 373552094.0
+    },
+    {
+      "title": "X-Men Origins: Wolverine",
+      "budget": 150000000.0,
+      "revenue": 373062864.0
+    },
+    {
+      "title": "The Golden Compass",
+      "budget": 180000000.0,
+      "revenue": 372234864.0
+    },
+    {
+      "title": "The Adventures of Tintin",
+      "budget": 130000000.0,
+      "revenue": 371940071.0
+    },
+    {
+      "title": "G.I. Joe: Retaliation",
+      "budget": 130000000.0,
+      "revenue": 371876278.0
+    },
+    {
+      "title": "Terminator Salvation",
+      "budget": 200000000.0,
+      "revenue": 371353001.0
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "budget": 140000000.0,
+      "revenue": 370569774.0
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "budget": 178000000.0,
+      "revenue": 370541256.0
+    },
+    {
+      "title": "War for the Planet of the Apes",
+      "budget": 152000000.0,
+      "revenue": 369907963.0
+    },
+    {
+      "title": "There's Something About Mary",
+      "budget": 23000000.0,
+      "revenue": 369884651.0
+    },
+    {
+      "title": "Gone Girl",
+      "budget": 61000000.0,
+      "revenue": 369330363.0
+    },
+    {
+      "title": "The Fugitive",
+      "budget": 44000000.0,
+      "revenue": 368875760.0
+    },
+    {
+      "title": "Home",
+      "budget": 135000000.0,
+      "revenue": 368871007.0
+    },
+    {
+      "title": "Jurassic Park III",
+      "budget": 93000000.0,
+      "revenue": 368780809.0
+    },
+    {
+      "title": "My Big Fat Greek Wedding",
+      "budget": 5000000.0,
+      "revenue": 368744044.0
+    },
+    {
+      "title": "Hitch",
+      "budget": 70000000.0,
+      "revenue": 368100420.0
+    },
+    {
+      "title": "Shark Tale",
+      "budget": 75000000.0,
+      "revenue": 367275019.0
+    },
+    {
+      "title": "Die Hard: With a Vengeance",
+      "budget": 90000000.0,
+      "revenue": 366101666.0
+    },
+    {
+      "title": "Notting Hill",
+      "budget": 42000000.0,
+      "revenue": 363889678.0
+    },
+    {
+      "title": "A Bug's Life",
+      "budget": 120000000.0,
+      "revenue": 363258859.0
+    },
+    {
+      "title": "Fast & Furious",
+      "budget": 85000000.0,
+      "revenue": 363164265.0
+    },
+    {
+      "title": "Ocean's Twelve",
+      "budget": 110000000.0,
+      "revenue": 362744280.0
+    },
+    {
+      "title": "Noah",
+      "budget": 125000000.0,
+      "revenue": 362637473.0
+    },
+    {
+      "title": "Planet of the Apes",
+      "budget": 100000000.0,
+      "revenue": 362211740.0
+    },
+    {
+      "title": "The Hangover Part III",
+      "budget": 103000000.0,
+      "revenue": 362000072.0
+    },
+    {
+      "title": "The World Is Not Enough",
+      "budget": 135000000.0,
+      "revenue": 361832400.0
+    },
+    {
+      "title": "Alvin and the Chipmunks",
+      "budget": 60000000.0,
+      "revenue": 361366633.0
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "budget": 18000000.0,
+      "revenue": 358991681.0
+    },
+    {
+      "title": "Hotel Transylvania",
+      "budget": 85000000.0,
+      "revenue": 358375603.0
+    },
+    {
+      "title": "Minority Report",
+      "budget": 102000000.0,
+      "revenue": 358372926.0
+    },
+    {
+      "title": "The Karate Kid",
+      "budget": 40000000.0,
+      "revenue": 357852395.0
+    },
+    {
+      "title": "Top Gun",
+      "budget": 15000000.0,
+      "revenue": 356830601.0
+    },
+    {
+      "title": "The Legend of Tarzan",
+      "budget": 180000000.0,
+      "revenue": 356743061.0
+    },
+    {
+      "title": "Angels & Demons",
+      "budget": 150000000.0,
+      "revenue": 356613439.0
+    },
+    {
+      "title": "American Beauty",
+      "budget": 15000000.0,
+      "revenue": 356296601.0
+    },
+    {
+      "title": "Journey 2: The Mysterious Island",
+      "budget": 79000000.0,
+      "revenue": 355692760.0
+    },
+    {
+      "title": "Apollo 13",
+      "budget": 52000000.0,
+      "revenue": 355237933.0
+    },
+    {
+      "title": "Dinosaur",
+      "budget": 127500000.0,
+      "revenue": 354248063.0
+    },
+    {
+      "title": "X-Men: First Class",
+      "budget": 160000000.0,
+      "revenue": 353624124.0
+    },
+    {
+      "title": "Basic Instinct",
+      "budget": 49000000.0,
+      "revenue": 352927224.0
+    },
+    {
+      "title": "GoldenEye",
+      "budget": 58000000.0,
+      "revenue": 352194034.0
+    },
+    {
+      "title": "Catch Me If You Can",
+      "budget": 52000000.0,
+      "revenue": 352114312.0
+    },
+    {
+      "title": "Hannibal",
+      "budget": 87000000.0,
+      "revenue": 351692268.0
+    },
+    {
+      "title": "The Mask",
+      "budget": 23000000.0,
+      "revenue": 351583407.0
+    },
+    {
+      "title": "The Great Gatsby",
+      "budget": 105000000.0,
+      "revenue": 351040419.0
+    },
+    {
+      "title": "Speed",
+      "budget": 30000000.0,
+      "revenue": 350448145.0
+    },
+    {
+      "title": "Cars 3",
+      "budget": 175000000.0,
+      "revenue": 350170057.0
+    },
+    {
+      "title": "The Angry Birds Movie",
+      "budget": 73000000.0,
+      "revenue": 349779543.0
+    },
+    {
+      "title": "Night at the Museum: Secret of the Tomb",
+      "budget": 127000000.0,
+      "revenue": 349424282.0
+    },
+    {
+      "title": "The Lorax",
+      "budget": 70000000.0,
+      "revenue": 348840316.0
+    },
+    {
+      "title": "The Maze Runner",
+      "budget": 34000000.0,
+      "revenue": 348319861.0
+    },
+    {
+      "title": "National Treasure",
+      "budget": 100000000.0,
+      "revenue": 347451894.0
+    },
+    {
+      "title": "The Smurfs 2",
+      "budget": 105000000.0,
+      "revenue": 347434178.0
+    },
+    {
+      "title": "Rush Hour 2",
+      "budget": 90000000.0,
+      "revenue": 347325802.0
+    },
+    {
+      "title": "I, Robot",
+      "budget": 120000000.0,
+      "revenue": 347234916.0
+    },
+    {
+      "title": "Trolls",
+      "budget": 125000000.0,
+      "revenue": 346864462.0
+    },
+    {
+      "title": "xXx: Return of Xander Cage",
+      "budget": 85000000.0,
+      "revenue": 346147658.0
+    },
+    {
+      "title": "Pocahontas",
+      "budget": 55000000.0,
+      "revenue": 346079773.0
+    },
+    {
+      "title": "How the Grinch Stole Christmas",
+      "budget": 123000000.0,
+      "revenue": 345141403.0
+    },
+    {
+      "title": "Star Trek Beyond",
+      "budget": 185000000.0,
+      "revenue": 343471816.0
+    },
+    {
+      "title": "Over the Hedge",
+      "budget": 80000000.0,
+      "revenue": 343397247.0
+    },
+    {
+      "title": "Alvin and the Chipmunks: Chipwrecked",
+      "budget": 75000000.0,
+      "revenue": 342695435.0
+    },
+    {
+      "title": "The Flintstones",
+      "budget": 46000000.0,
+      "revenue": 341631208.0
+    },
+    {
+      "title": "Enchanted",
+      "budget": 85000000.0,
+      "revenue": 340487652.0
+    },
+    {
+      "title": "300: Rise of an Empire",
+      "budget": 110000000.0,
+      "revenue": 337580051.0
+    },
+    {
+      "title": "Batman Forever",
+      "budget": 100000000.0,
+      "revenue": 336529144.0
+    },
+    {
+      "title": "Prince of Persia: The Sands of Time",
+      "budget": 150000000.0,
+      "revenue": 335154643.0
+    },
+    {
+      "title": "The Rock",
+      "budget": 75000000.0,
+      "revenue": 335062621.0
+    },
+    {
+      "title": "Now You See Me 2",
+      "budget": 90000000.0,
+      "revenue": 334901337.0
+    },
+    {
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "budget": 125000000.0,
+      "revenue": 334615000.0
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "budget": 150000000.0,
+      "revenue": 333932083.0
+    },
+    {
+      "title": "Tomorrow Never Dies",
+      "budget": 110000000.0,
+      "revenue": 333011068.0
+    },
+    {
+      "title": "Indiana Jones and the Temple of Doom",
+      "budget": 28000000.0,
+      "revenue": 333000000.0
+    },
+    {
+      "title": "Back to the Future Part II",
+      "budget": 40000000.0,
+      "revenue": 332000000.0
+    },
+    {
+      "title": "The Great Wall",
+      "budget": 150000000.0,
+      "revenue": 331957105.0
+    },
+    {
+      "title": "The Good Dinosaur",
+      "budget": 175000000.0,
+      "revenue": 331926147.0
+    },
+    {
+      "title": "Fantastic Four",
+      "budget": 100000000.0,
+      "revenue": 330579719.0
+    },
+    {
+      "title": "Meet the Parents",
+      "budget": 55000000.0,
+      "revenue": 330444045.0
+    },
+    {
+      "title": "Who Framed Roger Rabbit",
+      "budget": 70000000.0,
+      "revenue": 329803958.0
+    },
+    {
+      "title": "Crocodile Dundee",
+      "budget": 5000000.0,
+      "revenue": 328203506.0
+    },
+    {
+      "title": "Black Swan",
+      "budget": 13000000.0,
+      "revenue": 327803731.0
+    },
+    {
+      "title": "Se7en",
+      "budget": 33000000.0,
+      "revenue": 327311859.0
+    },
+    {
+      "title": "The Devil Wears Prada",
+      "budget": 35000000.0,
+      "revenue": 326551094.0
+    },
+    {
+      "title": "Taken 3",
+      "budget": 48000000.0,
+      "revenue": 325771424.0
+    },
+    {
+      "title": "The Perfect Storm",
+      "budget": 120000000.0,
+      "revenue": 325756637.0
+    },
+    {
+      "title": "A Christmas Carol",
+      "budget": 200000000.0,
+      "revenue": 325233863.0
+    },
+    {
+      "title": "Megamind",
+      "budget": 130000000.0,
+      "revenue": 321887208.0
+    },
+    {
+      "title": "Lethal Weapon 3",
+      "budget": 35000000.0,
+      "revenue": 321731527.0
+    },
+    {
+      "title": "Schindler's List",
+      "budget": 22000000.0,
+      "revenue": 321365567.0
+    },
+    {
+      "title": "101 Dalmatians",
+      "budget": 54000000.0,
+      "revenue": 320689294.0
+    },
+    {
+      "title": "The Conjuring 2",
+      "budget": 40000000.0,
+      "revenue": 320170008.0
+    },
+    {
+      "title": "Fatal Attraction",
+      "budget": 14000000.0,
+      "revenue": 320145693.0
+    },
+    {
+      "title": "Inglourious Basterds",
+      "budget": 70000000.0,
+      "revenue": 319131050.0
+    },
+    {
+      "title": "The Last Airbender",
+      "budget": 150000000.0,
+      "revenue": 318502923.0
+    },
+    {
+      "title": "The Conjuring",
+      "budget": 13000000.0,
+      "revenue": 318000141.0
+    },
+    {
+      "title": "The Proposal",
+      "budget": 40000000.0,
+      "revenue": 317375031.0
+    },
+    {
+      "title": "Beverly Hills Cop",
+      "budget": 15000000.0,
+      "revenue": 316360478.0
+    },
+    {
+      "title": "Air Force One",
+      "budget": 85000000.0,
+      "revenue": 315156409.0
+    },
+    {
+      "title": "Chicken Little",
+      "budget": 150000000.0,
+      "revenue": 314432665.0
+    },
+    {
+      "title": "As Good as It Gets",
+      "budget": 50000000.0,
+      "revenue": 314178011.0
+    },
+    {
+      "title": "A Beautiful Mind",
+      "budget": 60000000.0,
+      "revenue": 313542341.0
+    },
+    {
+      "title": "The Expendables 2",
+      "budget": 100000000.0,
+      "revenue": 312573423.0
+    },
+    {
+      "title": "Resident Evil: The Final Chapter",
+      "budget": 40000000.0,
+      "revenue": 312242626.0
+    },
+    {
+      "title": "The Lego Batman Movie",
+      "budget": 80000000.0,
+      "revenue": 311950384.0
+    },
+    {
+      "title": "The SpongeBob Movie: Sponge Out of Water",
+      "budget": 74000000.0,
+      "revenue": 311594032.0
+    },
+    {
+      "title": "Ocean's Thirteen",
+      "budget": 85000000.0,
+      "revenue": 311312624.0
+    },
+    {
+      "title": "Maze Runner: The Scorch Trials",
+      "budget": 61000000.0,
+      "revenue": 311256926.0
+    },
+    {
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "budget": 33000000.0,
+      "revenue": 310940086.0
+    },
+    {
+      "title": "Robin Hood",
+      "budget": 200000000.0,
+      "revenue": 310669540.0
+    },
+    {
+      "title": "Little Fockers",
+      "budget": 100000000.0,
+      "revenue": 310650585.0
+    },
+    {
+      "title": "Dangal",
+      "budget": 10400000.0,
+      "revenue": 310000000.0
+    },
+    {
+      "title": "Bolt",
+      "budget": 150000000.0,
+      "revenue": 309979994.0
+    },
+    {
+      "title": "Ransom",
+      "budget": 80000000.0,
+      "revenue": 309492681.0
+    },
+    {
+      "title": "Runaway Bride",
+      "budget": 70000000.0,
+      "revenue": 309457509.0
+    },
+    {
+      "title": "The Blind Side",
+      "budget": 29000000.0,
+      "revenue": 309208309.0
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "budget": 12000000.0,
+      "revenue": 307166834.0
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "budget": 55000000.0,
+      "revenue": 307077295.0
+    },
+    {
+      "title": "Rise of the Guardians",
+      "budget": 145000000.0,
+      "revenue": 306941670.0
+    },
+    {
+      "title": "Chicago",
+      "budget": 45000000.0,
+      "revenue": 306776732.0
+    },
+    {
+      "title": "The Polar Express",
+      "budget": 165000000.0,
+      "revenue": 305875730.0
+    },
+    {
+      "title": "A Good Day to Die Hard",
+      "budget": 92000000.0,
+      "revenue": 304654182.0
+    },
+    {
+      "title": "Mulan",
+      "budget": 90000000.0,
+      "revenue": 304320254.0
+    },
+    {
+      "title": "Close Encounters of the Third Kind",
+      "budget": 20000000.0,
+      "revenue": 303788635.0
+    },
+    {
+      "title": "Passengers",
+      "budget": 110000000.0,
+      "revenue": 303144152.0
+    },
+    {
+      "title": "Battleship",
+      "budget": 209000000.0,
+      "revenue": 303025485.0
+    },
+    {
+      "title": "Liar Liar",
+      "budget": 45000000.0,
+      "revenue": 302710615.0
+    },
+    {
+      "title": "G.I. Joe: The Rise of Cobra",
+      "budget": 175000000.0,
+      "revenue": 302469017.0
+    },
+    {
+      "title": "Wrath of the Titans",
+      "budget": 150000000.0,
+      "revenue": 301000000.0
+    },
+    {
+      "title": "Hook",
+      "budget": 70000000.0,
+      "revenue": 300854823.0
+    },
+    {
+      "title": "Rocky IV",
+      "budget": 31000000.0,
+      "revenue": 300473716.0
+    },
+    {
+      "title": "Rambo: First Blood Part II",
+      "budget": 44000000.0,
+      "revenue": 300400432.0
+    },
+    {
+      "title": "Van Helsing",
+      "budget": 160000000.0,
+      "revenue": 300257475.0
+    },
+    {
+      "title": "Resident Evil: Afterlife",
+      "budget": 60000000.0,
+      "revenue": 300228084.0
+    },
+    {
+      "title": "Superman",
+      "budget": 55000000.0,
+      "revenue": 300218018.0
+    },
+    {
+      "title": "Stuart Little",
+      "budget": 133000000.0,
+      "revenue": 300135367.0
+    },
+    {
+      "title": "Beverly Hills Cop II",
+      "budget": 20000000.0,
+      "revenue": 299965036.0
+    },
+    {
+      "title": "Alice Through the Looking Glass",
+      "budget": 170000000.0,
+      "revenue": 299370084.0
+    },
+    {
+      "title": "My Best Friend's Wedding",
+      "budget": 38000000.0,
+      "revenue": 299288605.0
+    },
+    {
+      "title": "Real Steel",
+      "budget": 110000000.0,
+      "revenue": 299268508.0
+    },
+    {
+      "title": "Horton Hears a Who!",
+      "budget": 85000000.0,
+      "revenue": 297138014.0
+    },
+    {
+      "title": "Austin Powers in Goldmember",
+      "budget": 63000000.0,
+      "revenue": 296655431.0
+    },
+    {
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "budget": 110000000.0,
+      "revenue": 296485719.0
+    },
+    {
+      "title": "X-Men",
+      "budget": 75000000.0,
+      "revenue": 296339527.0
+    },
+    {
+      "title": "Look Who's Talking",
+      "budget": 7500000.0,
+      "revenue": 296000000.0
+    },
+    {
+      "title": "Insurgent",
+      "budget": 110000000.0,
+      "revenue": 295238201.0
+    },
+    {
+      "title": "Ghostbusters",
+      "budget": 30000000.0,
+      "revenue": 295212467.0
+    },
+    {
+      "title": "Shutter Island",
+      "budget": 80000000.0,
+      "revenue": 294804195.0
+    },
+    {
+      "title": "Doctor Dolittle",
+      "budget": 71000000.0,
+      "revenue": 294456605.0
+    },
+    {
+      "title": "Salt",
+      "budget": 110000000.0,
+      "revenue": 293329073.0
+    },
+    {
+      "title": "G-Force",
+      "budget": 150000000.0,
+      "revenue": 292817841.0
+    },
+    {
+      "title": "The Departed",
+      "budget": 90000000.0,
+      "revenue": 289847354.0
+    },
+    {
+      "title": "Shakespeare in Love",
+      "budget": 25000000.0,
+      "revenue": 289317794.0
+    },
+    {
+      "title": "Fantastic 4: Rise of the Silver Surfer",
+      "budget": 130000000.0,
+      "revenue": 289047763.0
+    },
+    {
+      "title": "Coming to America",
+      "budget": 39000000.0,
+      "revenue": 288752301.0
+    },
+    {
+      "title": "Divergent",
+      "budget": 85000000.0,
+      "revenue": 288747895.0
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "budget": 75000000.0,
+      "revenue": 288500217.0
+    },
+    {
+      "title": "Bridesmaids",
+      "budget": 32500000.0,
+      "revenue": 288383523.0
+    },
+    {
+      "title": "Sex and the City 2",
+      "budget": 100000000.0,
+      "revenue": 288347692.0
+    },
+    {
+      "title": "Casper",
+      "budget": 50000000.0,
+      "revenue": 287928194.0
+    },
+    {
+      "title": "Bee Movie",
+      "budget": 150000000.0,
+      "revenue": 287594577.0
+    },
+    {
+      "title": "American Pie 2",
+      "budget": 30000000.0,
+      "revenue": 287553595.0
+    },
+    {
+      "title": "Pitch Perfect 2",
+      "budget": 29000000.0,
+      "revenue": 287506194.0
+    },
+    {
+      "title": "The Sound of Music",
+      "budget": 8200000.0,
+      "revenue": 286214286.0
+    },
+    {
+      "title": "Oblivion",
+      "budget": 120000000.0,
+      "revenue": 286168572.0
+    },
+    {
+      "title": "Elysium",
+      "budget": 115000000.0,
+      "revenue": 286140700.0
+    },
+    {
+      "title": "Lethal Weapon 4",
+      "budget": 140000000.0,
+      "revenue": 285444603.0
+    },
+    {
+      "title": "Wedding Crashers",
+      "budget": 40000000.0,
+      "revenue": 285176741.0
+    },
+    {
+      "title": "The Green Mile",
+      "budget": 60000000.0,
+      "revenue": 284600000.0
+    },
+    {
+      "title": "John Carter",
+      "budget": 260000000.0,
+      "revenue": 284139100.0
+    },
+    {
+      "title": "Turbo",
+      "budget": 135000000.0,
+      "revenue": 282570682.0
+    },
+    {
+      "title": "Bridget Jones's Diary",
+      "budget": 25000000.0,
+      "revenue": 281929795.0
+    },
+    {
+      "title": "Batman Returns",
+      "budget": 80000000.0,
+      "revenue": 280000000.0
+    },
+    {
+      "title": "The Tourist",
+      "budget": 100000000.0,
+      "revenue": 278731369.0
+    },
+    {
+      "title": "Mojin: The Lost Legend",
+      "budget": 37000000.0,
+      "revenue": 278300000.0
+    },
+    {
+      "title": "Scary Movie",
+      "budget": 19000000.0,
+      "revenue": 278019771.0
+    },
+    {
+      "title": "xXx",
+      "budget": 70000000.0,
+      "revenue": 277448382.0
+    },
+    {
+      "title": "Split",
+      "budget": 9000000.0,
+      "revenue": 276921998.0
+    },
+    {
+      "title": "The Bourne Legacy",
+      "budget": 130000000.0,
+      "revenue": 276572938.0
+    },
+    {
+      "title": "Scooby-Doo",
+      "budget": 84000000.0,
+      "revenue": 275650703.0
+    },
+    {
+      "title": "Lincoln",
+      "budget": 65000000.0,
+      "revenue": 275293450.0
+    },
+    {
+      "title": "Spirited Away",
+      "budget": 15000000.0,
+      "revenue": 274925095.0
+    },
+    {
+      "title": "Lara Croft: Tomb Raider",
+      "budget": 115000000.0,
+      "revenue": 274703340.0
+    },
+    {
+      "title": "The Expendables",
+      "budget": 80000000.0,
+      "revenue": 274470394.0
+    },
+    {
+      "title": "Jerry Maguire",
+      "budget": 50000000.0,
+      "revenue": 273552592.0
+    },
+    {
+      "title": "Bad Boys II",
+      "budget": 130000000.0,
+      "revenue": 273339556.0
+    },
+    {
+      "title": "Mr. Peabody & Sherman",
+      "budget": 145000000.0,
+      "revenue": 272912430.0
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "budget": 19000000.0,
+      "revenue": 272742922.0
+    },
+    {
+      "title": "Grown Ups",
+      "budget": 80000000.0,
+      "revenue": 271430189.0
+    },
+    {
+      "title": "The Firm",
+      "budget": 42000000.0,
+      "revenue": 270248367.0
+    },
+    {
+      "title": "Rocky III",
+      "budget": 17000000.0,
+      "revenue": 270000000.0
+    },
+    {
+      "title": "We're the Millers",
+      "budget": 37000000.0,
+      "revenue": 269994119.0
+    },
+    {
+      "title": "Gran Torino",
+      "budget": 33000000.0,
+      "revenue": 269958228.0
+    },
+    {
+      "title": "Epic",
+      "budget": 100000000.0,
+      "revenue": 268426634.0
+    },
+    {
+      "title": "Neighbors",
+      "budget": 18000000.0,
+      "revenue": 268157400.0
+    },
+    {
+      "title": "Exodus: Gods and Kings",
+      "budget": 140000000.0,
+      "revenue": 268031828.0
+    },
+    {
+      "title": "The Princess and the Frog",
+      "budget": 105000000.0,
+      "revenue": 267045765.0
+    },
+    {
+      "title": "Something's Gotta Give",
+      "budget": 80000000.0,
+      "revenue": 266728738.0
+    },
+    {
+      "title": "Indecent Proposal",
+      "budget": 38000000.0,
+      "revenue": 266614059.0
+    },
+    {
+      "title": "The Prince",
+      "budget": 18000000.0,
+      "revenue": 266586800.0
+    },
+    {
+      "title": "American Gangster",
+      "budget": 100000000.0,
+      "revenue": 266465037.0
+    },
+    {
+      "title": "10,000 BC",
+      "budget": 105000000.0,
+      "revenue": 266000000.0
+    },
+    {
+      "title": "Waterworld",
+      "budget": 175000000.0,
+      "revenue": 264218220.0
+    },
+    {
+      "title": "The Truman Show",
+      "budget": 60000000.0,
+      "revenue": 264118201.0
+    },
+    {
+      "title": "Charlie's Angels",
+      "budget": 92000000.0,
+      "revenue": 264105545.0
+    },
+    {
+      "title": "The Fifth Element",
+      "budget": 90000000.0,
+      "revenue": 263920180.0
+    },
+    {
+      "title": "Cinderella",
+      "budget": 2900000.0,
+      "revenue": 263591415.0
+    },
+    {
+      "title": "Jumanji",
+      "budget": 65000000.0,
+      "revenue": 262797249.0
+    },
+    {
+      "title": "Knight and Day",
+      "budget": 117000000.0,
+      "revenue": 261930431.0
+    },
+    {
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "budget": 18000000.0,
+      "revenue": 261572744.0
+    },
+    {
+      "title": "Total Recall",
+      "budget": 65000000.0,
+      "revenue": 261317921.0
+    },
+    {
+      "title": "Robots",
+      "budget": 75000000.0,
+      "revenue": 260696994.0
+    },
+    {
+      "title": "Super 8",
+      "budget": 50000000.0,
+      "revenue": 260095987.0
+    },
+    {
+      "title": "Paddington",
+      "budget": 55000000.0,
+      "revenue": 259207227.0
+    },
+    {
+      "title": "Charlie's Angels: Full Throttle",
+      "budget": 120000000.0,
+      "revenue": 259175788.0
+    },
+    {
+      "title": "Wanted",
+      "budget": 75000000.0,
+      "revenue": 258270008.0
+    },
+    {
+      "title": "Rush Hour 3",
+      "budget": 140000000.0,
+      "revenue": 258022233.0
+    },
+    {
+      "title": "The Full Monty",
+      "budget": 3500000.0,
+      "revenue": 257850122.0
+    },
+    {
+      "title": "The Village",
+      "budget": 60000000.0,
+      "revenue": 256697520.0
+    },
+    {
+      "title": "Erin Brockovich",
+      "budget": 52000000.0,
+      "revenue": 256271286.0
+    },
+    {
+      "title": "Annabelle",
+      "budget": 6500000.0,
+      "revenue": 255273813.0
+    },
+    {
+      "title": "Cliffhanger",
+      "budget": 70000000.0,
+      "revenue": 255000211.0
+    },
+    {
+      "title": "Four Weddings and a Funeral",
+      "budget": 6000000.0,
+      "revenue": 254700832.0
+    },
+    {
+      "title": "The Hangover Part II",
+      "budget": 80000000.0,
+      "revenue": 254455986.0
+    },
+    {
+      "title": "Kung Fu Yoga",
+      "budget": 65000000.0,
+      "revenue": 254212245.0
+    },
+    {
+      "title": "Babe",
+      "budget": 30000000.0,
+      "revenue": 254134910.0
+    },
+    {
+      "title": "Hercules",
+      "budget": 85000000.0,
+      "revenue": 252712101.0
+    },
+    {
+      "title": "Get Out",
+      "budget": 5000000.0,
+      "revenue": 252434250.0
+    },
+    {
+      "title": "True Grit",
+      "budget": 38000000.0,
+      "revenue": 252276927.0
+    },
+    {
+      "title": "Bean",
+      "budget": 18000000.0,
+      "revenue": 251212670.0
+    },
+    {
+      "title": "American Hustle",
+      "budget": 40000000.0,
+      "revenue": 251171807.0
+    },
+    {
+      "title": "You've Got Mail",
+      "budget": 65000000.0,
+      "revenue": 250821495.0
+    }
+  ]
+}
