@@ -6,7 +6,7 @@ An interactive, premium, data-driven dashboard visualizing movie industry trends
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Interactive Filters**: 
   - Dynamic **Genre** filter populated from the dataset.
@@ -27,7 +27,7 @@ An interactive, premium, data-driven dashboard visualizing movie industry trends
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ An interactive, premium, data-driven dashboard visualizing movie industry trends
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5 & CSS3**: Responsive grid layout and glassmorphic dark theme.
 - **JavaScript (ES6)**: Real-time data filtration and metric aggregations.
